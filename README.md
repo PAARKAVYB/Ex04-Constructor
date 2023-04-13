@@ -73,4 +73,4 @@ namespace employee
 ![output](op1.png)
  
 ## RESULT:
-Thus C# program to calculate the salary of an employee by passing the name, designation,experience, basic salary and insurance amount through constructor is executed successfully.
+Thus C# program to calculate the salary of an employee by passing the name, designation,no_of_experience, basic salary and insurance amount through constructor is executed successfully.
