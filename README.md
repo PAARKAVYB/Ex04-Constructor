@@ -1,13 +1,13 @@
 # CONSTRUCTOR
 ## AIM:
-To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
+To write a C# program to calculate the salary of an employee by passing the name, designation,experience, basic salary and insurance amount through constructor.
 
 ## ALGORITHM:
 ### STEP 1:
 Create a class and a constructor.
 
 ### STEP 2:
-Get name, designation, noofexperience, basic salary and insurance amount from the User.
+Get name, designation,experience, basic salary and insurance amount from the User.
 
 ### STEP 3:
 Call salary method in constructor to calculate salary.
@@ -73,4 +73,4 @@ namespace employee
 ![output](op1.png)
  
 ## RESULT:
-Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
+Thus C# program to calculate the salary of an employee by passing the name, designation,experience, basic salary and insurance amount through constructor is executed successfully.
