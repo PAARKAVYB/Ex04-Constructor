@@ -10,10 +10,10 @@ Create a class and a constructor.
 Get name, designation, noofexperience, basic salary and insurance amount from the User.
 
 ### STEP 3:
-call salary method in constructor to calculate salary.
+Call salary method in constructor to calculate salary.
 
 ### STEP 4:
-call display method to display the output.
+Call display method to display the output.
 
 ## PROGRAM:
 ```
